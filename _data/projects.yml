@@ -1,11 +1,11 @@
 - name: Poker Game
-  link: "https://github.com/ladyashburnham/poker-game"
+  link: "https://github.com/markzporter/poker-game"
   description: "A playable poker game made with Java."
 
 - name: Applet Animation
-  link: "https://github.com/ladyashburnham/applet-animation"
+  link: "https://github.com/markzporter/applet-animation"
   description: "A Java applet I made that's based off Galaga and does an animation of a game."
 
 - name: Zodiac 
-  link: "https://github.com/ladyashburnham/zodiac"
+  link: "https://github.com/markzporter/zodiac"
   description: "A program written in Java that tells you your zodiac sign based on your birthday."
