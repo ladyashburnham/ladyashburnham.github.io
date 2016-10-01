@@ -1,6 +1,6 @@
 title: "Mark Porter"
-description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-about: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+description: "I am a Computer Science Co-op student at the University of Waterloo."
+about: "This is a website designed to serve as my personal site to show work that I've done."
 location: "Waterloo, Canada"
 email: markporter4321@gmail.com
 baseurl: ""
@@ -19,7 +19,7 @@ projects_btn: "Projects"
 posts_btn: "Posts"
 imprint_btn: "Imprint"
 name_badge: "an article by"
-rss_badge: "Subscribe feed!"
+rss_badge: ""
 
 # build settings
 markdown: kramdown
