@@ -4,7 +4,7 @@
 
 - name: Applet Animation
   link: "https://github.com/markzporter/applet-animation"
-  description: "A Java applet I made that's based off Galaga and does an animation of a game."
+  description: "A Java applet that's based off Galaga and does an animation of a game."
 
 - name: Zodiac 
   link: "https://github.com/markzporter/zodiac"
